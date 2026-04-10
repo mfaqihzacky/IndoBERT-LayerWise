@@ -6,4 +6,4 @@ __pycache__/
 *.pyc
 
 env_ta/
-notebook/pos_tagging/features_memmap/
+notebook/Ekstraksi_Hidden_States/
