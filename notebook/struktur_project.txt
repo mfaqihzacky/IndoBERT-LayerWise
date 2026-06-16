@@ -1,0 +1,154 @@
+TugasAkhir_MuhamadFaqihZacky/
+|-- .git/
+|-- .gitignore
+|-- requirements.txt
+|-- env_ta/
+|   `-- ...
+|-- data/
+|   |-- anotasi/
+|   |   |-- all_csv_ud-indonesian-gsd/
+|   |   |   |-- morfologi_afiksasi/
+|   |   |   |   |-- all_ud-indo-gsd_morfologi_dev.csv
+|   |   |   |   |-- all_ud-indo-gsd_morfologi_test.csv
+|   |   |   |   `-- all_ud-indo-gsd_morfologi_train.csv
+|   |   |   `-- negation_scope_detection/
+|   |   |       |-- all_ud-indo-gsd_negasi_dev.csv
+|   |   |       |-- all_ud-indo-gsd_negasi_test.csv
+|   |   |       `-- all_ud-indo-gsd_negasi_train.csv
+|   |   |-- morfologi_afiksasi/
+|   |   |   |-- a_pre_anotasi_sampel/
+|   |   |   |   |-- csv/
+|   |   |   |   |   |-- morfologiAfiksasi_sample_dev.csv
+|   |   |   |   |   |-- morfologiAfiksasi_sample_test.csv
+|   |   |   |   |   `-- morfologiAfiksasi_sample_train.csv
+|   |   |   |   `-- excel/
+|   |   |   |       |-- morfologiAfiksasi_sample_dev.xlsx
+|   |   |   |       |-- morfologiAfiksasi_sample_test.xlsx
+|   |   |   |       `-- morfologiAfiksasi_sample_train.xlsx
+|   |   |   `-- b_post_anotasi/
+|   |   |       |-- annotator_1/
+|   |   |       |   |-- 1_morfologiAfiksasi_sample_dev.csv
+|   |   |       |   |-- 1_morfologiAfiksasi_sample_test.csv
+|   |   |       |   `-- 1_morfologiAfiksasi_sample_train.csv
+|   |   |       |-- annotator_2/
+|   |   |       |   |-- 2_morfologiAfiksasi_sample_dev.csv
+|   |   |       |   |-- 2_morfologiAfiksasi_sample_test.csv
+|   |   |       |   `-- 2_morfologiAfiksasi_sample_train.csv
+|   |   |       `-- annotator_3/
+|   |   |           |-- 3_morfologiAfiksasi_sample_dev.csv
+|   |   |           |-- 3_morfologiAfiksasi_sample_test.csv
+|   |   |           `-- 3_morfologiAfiksasi_sample_train.csv
+|   |   `-- negation_scope_detection/
+|   |       |-- a_pre_anotasi_sampel/
+|   |       |   |-- csv/
+|   |       |   |   |-- negasiScope_sample_dev.csv
+|   |       |   |   |-- negasiScope_sample_test.csv
+|   |       |   |   `-- negasiScope_sample_train.csv
+|   |       |   `-- excel/
+|   |       |       |-- negasiScope_sample_dev.xlsx
+|   |       |       |-- negasiScope_sample_test.xlsx
+|   |       |       `-- negasiScope_sample_train.xlsx
+|   |       `-- b_post_anotasi/
+|   |           |-- annotator_1/
+|   |           |-- annotator_2/
+|   |           `-- annotator_3/
+|   |-- processed/
+|   |   |-- Morfologi_Afiksasi/
+|   |   |   |-- ud-indo-gsd_dev_morph.csv
+|   |   |   |-- ud-indo-gsd_test_morph.csv
+|   |   |   `-- ud-indo-gsd_train_morph.csv
+|   |   |-- Negasi/
+|   |   |   |-- ud-indo-gsd_dev_negation.csv
+|   |   |   |-- ud-indo-gsd_test_negation.csv
+|   |   |   `-- ud-indo-gsd_train_negation.csv
+|   |   |-- POS_Tagging/
+|   |   |   |-- indolem_dev_pos.csv
+|   |   |   |-- indolem_test_pos.csv
+|   |   |   `-- indolem_train_pos.csv
+|   |   `-- Relasi_Sintaksis/
+|   |       |-- ud-indo-gsd_dev_syntactic.csv
+|   |       |-- ud-indo-gsd_test_syntactic.csv
+|   |       `-- ud-indo-gsd_train_syntactic.csv
+|   `-- raw/
+|       |-- indolem-main/
+|       |   |-- dependency_parsing/
+|       |   |   |-- experiments/
+|       |   |   |   |-- configs/
+|       |   |   |   |   |-- ner/
+|       |   |   |   |   |-- parsing/
+|       |   |   |   |   `-- pos/
+|       |   |   |   |-- eval/
+|       |   |   |   `-- scripts/
+|       |   |   |-- neuronlp2/
+|       |   |   |   |-- io/
+|       |   |   |   |-- models/
+|       |   |   |   |-- nn/
+|       |   |   |   |   `-- _functions/
+|       |   |   |   |-- optim/
+|       |   |   |   `-- tasks/
+|       |   |   |-- UD_Indonesian_GSD/
+|       |   |   `-- UD_Indonesian_PUD/
+|       |   |       `-- folds/
+|       |   |-- ner/
+|       |   |   `-- data/
+|       |   |       |-- nerugm/
+|       |   |       `-- nerui/
+|       |   |-- next_tweet_prediction/
+|       |   |   `-- data/
+|       |   |-- pos_tagging/
+|       |   |   `-- data/
+|       |   |-- sentiment/
+|       |   |   `-- data/
+|       |   |-- summarization_indosum/
+|       |   |   |-- data/
+|       |   |   |-- PreSumm/
+|       |   |   |   |-- src_indo/
+|       |   |   |   |-- src_malay/
+|       |   |   |   `-- src_multi/
+|       |   |   `-- scripts/
+|       |   |-- summarization_liputan6/
+|       |   |-- tweet_ordering/
+|       |   |   `-- data/
+|       |   `-- ...
+|       `-- indonli-main/
+|           |-- data/
+|           |   `-- indonli/
+|           |-- experiments/
+|           |   |-- combined_preds/
+|           |   |   |-- dev/
+|           |   |   |-- dev-xnli-large/
+|           |   |   |-- dev-xnli-small/
+|           |   |   |-- test/
+|           |   |   `-- test-xnli-large/
+|           |   |-- experiments/
+|           |   |   `-- tasks/
+|           |   |       |-- configs/
+|           |   |       `-- data/
+|           |   |           `-- indo_nli/
+|           |   `-- scripts/
+|           `-- ...
+`-- notebook/
+    |-- AnalisisLayerwise.ipynb
+    |-- Dataset.ipynb
+    |-- exploreDataset.ipynb
+    |-- layerwise.ipynb
+    |-- Skripsi_AnalisisLayerwise.ipynb
+    |-- Skripsi_Dataset.ipynb
+    |-- struktur_project.txt
+    |-- Anotasi/
+    |   |-- DatasetAnotasi.ipynb
+    |   `-- pengecekan.ipynb
+    `-- Ekstraksi_Hidden_States/
+        |-- Morfologi_Afiksasi/
+        |   |-- indobert_morph.npz
+        |   `-- xlmr_morph.npz
+        |-- Negasi/
+        |   `-- *.npz
+        |-- NegasiScope/
+        |   |-- *.npz
+        |   `-- *.png
+        |-- POS_Tagging/
+        |   `-- *.npz
+        `-- Relasi_Sintaksis/
+            |-- indobert_dep.npz
+            `-- xlmr_dep.npz

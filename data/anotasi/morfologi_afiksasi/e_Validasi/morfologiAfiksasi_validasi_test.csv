@@ -1,0 +1,386 @@
+﻿sent_id,token_id,token,label_silver,label_otomatis,cocok
+test-s465,77,tegas,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s304,19,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s62,8,muda,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s484,6,panen,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s6,3,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s520,20,Pemerintah,Prefiks,Prefiks,True
+test-s491,13,English,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s482,4,Tokyo,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s165,11,kandung,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s67,12,diterima,Prefiks,Prefiks,True
+test-s15,66,peninggalan,Konfiks,Konfiks,True
+test-s438,20,hasil,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s184,3,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s542,14,bayaran,Sufiks,Sufiks,True
+test-s221,74,Rain,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s419,1,Negara,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s249,2,apa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s80,20,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s86,25,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s353,16,memalsukan,Konfiks,Konfiks,True
+test-s253,1,Dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s231,16,gram,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s200,19,Bank,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s86,8,Cilik,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s102,32,Prupuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s434,3,salah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s57,4,ditunjuk,Prefiks,Prefiks,True
+test-s147,21,port,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s509,5,hidup,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s100,7,swasta,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s348,3,nama,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s329,11,FASI,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s428,40,serta,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s409,25,dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s464,4,sejak,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s110,22,Central,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s204,8,culpaeus,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s158,28,terletak,Prefiks,Prefiks,True
+test-s400,1,Kejadian,Konfiks,Konfiks,True
+test-s332,4,ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s452,6,56.35,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s158,14,Oktober,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s456,5,digunakan,Konfiks,Konfiks,True
+test-s92,24,karotis,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s226,10,saat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s264,9,Metro,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s190,5,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s493,9,Serikat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s252,6,528,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s59,25,jam,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s208,44,Mataram,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s278,4,satu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s428,29,umumnya,Sufiks,Tidak Berimbuhan,False
+test-s478,22,juga,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s367,47,Casimir,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s403,1,Tokoh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s84,11,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s454,12,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s385,14,sementara,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s4,4,juga,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s516,9,rencana,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s155,9,tahun,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s94,9,Vaterstetten,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s196,19,Evanora,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s104,4,Kalingga,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s27,22,strategis,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s410,8,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s449,1,Ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s413,130,Kuningan,Tidak Berimbuhan,Sufiks,False
+test-s1,37,telanjang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s557,7,Tuhanku,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s76,3,terpengaruh,Prefiks,Prefiks,True
+test-s28,12,pemerintah,Prefiks,Prefiks,True
+test-s459,2,Ujung,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s117,1,Perone,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s426,1,Akupunktur,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s136,9,bulan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s469,40,Singh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s15,52,Kerajaan,Konfiks,Konfiks,True
+test-s517,9,seperti,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s233,16,kekuatan,Konfiks,Konfiks,True
+test-s276,9,Selo,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s278,3,salah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s175,10,Nigeria,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s546,35,presiden,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s384,12,TOKIO,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s546,23,MPRS,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s33,13,Arab,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s466,14,1957,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s311,3,betta,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s425,11,dipetakan,Konfiks,Konfiks,True
+test-s246,8,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s444,3,dkk,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s101,8,Serang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s145,1,Jubah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s516,1,Akan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s532,18,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s490,9,Austria,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s419,7,diwakili,Konfiks,Konfiks,True
+test-s469,9,pusat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s367,10,oleh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s304,37,oleh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s466,23,3.750,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s256,1,Nama,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s69,16,ke,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s541,12,pernah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s443,2,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s288,11,Riau,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s210,28,hak,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s192,11,itu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s113,19,Melayu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s69,9,Perancis,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s510,12,hukuman,Sufiks,Sufiks,True
+test-s345,1,Surat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s269,15,Timur,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s439,9,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s416,11,1998,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s332,9,Ibrani,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s221,50,Your,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s470,12,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s50,7,Alexandria,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s333,4,apakah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s26,11,JK,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s261,12,dibanding,Prefiks,Prefiks,True
+test-s459,28,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s211,25,Hotel,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s321,10,musuh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s340,13,ke,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s163,6,rusa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s169,11,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s62,4,cinta,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s32,26,pelabuhan,Konfiks,Konfiks,True
+test-s14,6,menyuruhnya,Prefiks,Prefiks,True
+test-s15,59,turun,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s1,41,gula,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s277,7,Himne,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s288,6,dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s191,26,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s90,5,sebagai,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s123,9,2006,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s227,11,seperti,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s409,24,diramalkan,Konfiks,Konfiks,True
+test-s221,18,Paradise,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s176,9,BB,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s282,15,Maret,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s481,35,sebanyak,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s231,10,rata,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s177,20,Selatan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s52,15,masih,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s246,5,hanya,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s252,3,berada,Prefiks,Prefiks,True
+test-s115,13,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s492,23,dikenal,Prefiks,Prefiks,True
+test-s517,18,suhu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s546,2,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s290,2,kAssoma,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s18,7,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s87,33,komputer,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s168,9,Michael,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s167,7,udara,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s236,5,desa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s73,2,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s224,5,siapakah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s280,5,sedang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s455,20,masing,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s437,1,Suatu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s229,1,Pendidikan,Konfiks,Konfiks,True
+test-s31,10,wanita,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s546,27,Pencabutan,Konfiks,Konfiks,True
+test-s369,15,gundukan,Sufiks,Tidak Berimbuhan,False
+test-s316,10,Italia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s332,1,Di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s406,15,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s515,3,selanjutnya,Konfiks,Tidak Berimbuhan,False
+test-s483,2,besar,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s396,4,atau,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s113,20,menggunakan,Konfiks,Konfiks,True
+test-s422,1,Jiāngshī,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s477,11,hajat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s27,7,sengit,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s82,16,setelah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s354,7,halaman,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s457,22,sempat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s337,42,ketika,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s427,2,Rogge,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s226,5,juga,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s408,2,disertasinya,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s22,10,proses,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s481,23,161,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s472,11,halamannya,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s92,12,cabang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s300,14,emosionalnya,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s199,14,memiliki,Konfiks,Konfiks,True
+test-s407,24,dibandingkan,Konfiks,Konfiks,True
+test-s402,12,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s290,14,the,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s432,6,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s413,138,5760617,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s434,18,Jaya,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s309,55,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s548,13,latihan,Sufiks,Sufiks,True
+test-s425,3,Banyan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s425,9,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s249,10,kacang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s419,8,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s186,1,Seni,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s15,51,meskipun,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s372,32,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s103,15,Down,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s348,15,Kabupaten,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s6,2,Sulawesi,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s298,23,kapal,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s524,3,menemukan,Konfiks,Konfiks,True
+test-s235,3,umumnya,Sufiks,Tidak Berimbuhan,False
+test-s477,8,datang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s202,28,kajian,Sufiks,Sufiks,True
+test-s195,6,membawa,Prefiks,Prefiks,True
+test-s59,24,12,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s463,1,Mendapatkan,Konfiks,Konfiks,True
+test-s177,1,Lagu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s305,17,kendaraan,Sufiks,Sufiks,True
+test-s5,11,ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s198,11,LATUSOPACUA,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s24,17,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s516,10,perjanjian,Konfiks,Konfiks,True
+test-s115,10,overdose,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s7,3,memastikan,Konfiks,Konfiks,True
+test-s212,15,Filipina,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s135,6,barat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s232,11,sebuah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s16,2,dikatakan,Konfiks,Konfiks,True
+test-s1,35,sedang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s137,1,Karena,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s463,25,2010,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s318,8,akan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s321,8,musuh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s482,7,menjadi,Prefiks,Prefiks,True
+test-s109,21,Porozumienie,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s441,2,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s251,1,Oz,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s202,10,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s125,11,pengguna,Prefiks,Prefiks,True
+test-s431,6,Boutonneuse,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s312,13,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s510,15,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s509,4,bertahan,Prefiks,Prefiks,True
+test-s15,6,penerus,Prefiks,Prefiks,True
+test-s232,14,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s210,11,protes,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s428,10,orang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s1,33,menunjukkan,Konfiks,Konfiks,True
+test-s413,121,5,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s177,7,Mouth,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s1,31,resmi,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s528,12,proyek,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s552,3,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s233,22,jawab,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s465,71,bahwa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s461,5,memberontak,Prefiks,Prefiks,True
+test-s288,21,kan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s161,7,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s115,8,Cobain,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s288,5,andil,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s310,26,Aie,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s194,1,Dia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s20,7,Slamet,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s75,7,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s239,4,ada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s333,2,lalu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s416,8,periode,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s221,77,War,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s188,1,Xuanwu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s64,18,lahan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s360,14,Barat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s470,3,tim,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s391,17,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s146,5,Le,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s513,14,faktor,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s406,18,paling,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s231,2,Raney,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s310,30,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s517,15,sungai,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s82,23,tahap,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s186,3,disajikan,Konfiks,Konfiks,True
+test-s147,20,Paralel,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s86,6,Pentas,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s34,4,der,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s375,17,baru,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s400,7,Wasu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s465,8,bukanlah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s465,16,mengirim,Prefiks,Prefiks,True
+test-s401,10,kecamatan,Konfiks,Konfiks,True
+test-s468,6,Leonides,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s15,41,beberapa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s517,2,itu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s395,14,Madura,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s200,21,America,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s30,2,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s468,3,ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s36,13,batu-batu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s39,7,78,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s510,20,Menurut,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s129,37,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s113,21,bahasa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s113,31,tersebut,Prefiks,Tidak Berimbuhan,False
+test-s221,16,Mine,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s399,5,7,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s208,21,nama,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s305,8,Irit,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s132,12,saat,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s74,17,kesalehan,Konfiks,Konfiks,True
+test-s174,9,Audy,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s219,5,menolak,Prefiks,Prefiks,True
+test-s167,15,TSE,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s277,13,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s372,16,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s375,20,itu,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s73,5,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s383,9,Ortotoksi,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s93,16,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s196,13,Winkie,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s523,18,anggota,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s83,4,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s312,14,dipegang,Prefiks,Prefiks,True
+test-s5,6,of,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s528,48,berkembang,Prefiks,Prefiks,True
+test-s341,6,berbagai,Prefiks,Tidak Berimbuhan,False
+test-s152,24,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s456,1,Transgender,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s499,10,putra,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s277,18,penggerak,Prefiks,Prefiks,True
+test-s206,19,sebagai,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s545,10,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s217,18,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s320,20,Kapolda,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s368,4,lebih,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s214,5,akhir,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s90,4,Rita,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s481,9,2000,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s454,20,Amerika,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s185,14,kabupaten,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s225,4,berhasil,Prefiks,Tidak Berimbuhan,False
+test-s319,1,Kelak,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s441,3,didapatkan,Konfiks,Konfiks,True
+test-s529,13,laut,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s355,3,biasanya,Sufiks,Tidak Berimbuhan,False
+test-s468,4,bertemu,Prefiks,Prefiks,True
+test-s539,5,karena,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s136,11,Ramadhan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s445,8,Mike,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s369,3,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s171,6,jenis,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s500,1,Pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s149,10,diseluruh,Tidak Berimbuhan,Sufiks,False
+test-s475,12,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s26,42,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s528,13,menggunakan,Konfiks,Konfiks,True
+test-s58,15,petani,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s436,1,Apa,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s5,2,lima,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s18,38,seluruh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s388,1,Dia,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s133,3,komoditi,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s129,50,masjid,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s283,16,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s457,7,Starr,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s261,13,Itachi,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s235,8,ramainya,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s438,16,pelanggan,Prefiks,Prefiks,True
+test-s433,51,Bait,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s396,16,akan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s413,76,pesan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s325,19,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s58,7,pertanian,Konfiks,Konfiks,True
+test-s526,1,Porto,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s177,3,뭘봐,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s372,8,Stadio,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s248,49,Saleh,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s517,4,kebun,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s168,7,asal,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s163,7,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s453,16,Terutang,Prefiks,Prefiks,True
+test-s295,8,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+test-s478,7,berbagai,Prefiks,Tidak Berimbuhan,False
+test-s269,6,di,Tidak Berimbuhan,Tidak Berimbuhan,True

@@ -1,0 +1,399 @@
+﻿sent_id,token_id,token,label_silver,label_otomatis,cocok
+train-s141,2,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2854,5,ilmuwan,Sufiks,Sufiks,True
+train-s846,5,seluruh,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3281,3,Citra,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3877,8,Blessthefall,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1265,45,berjudul,Prefiks,Prefiks,True
+train-s3850,15,dirujuk,Prefiks,Prefiks,True
+train-s494,4,hanya,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2092,6,Wakil,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s533,5,dicatatnya,Prefiks,Prefiks,True
+train-s2468,5,Zubair,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2237,17,kemudian,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s626,70,pertama,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1873,1,player,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1774,18,abad,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s676,28,guru,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1211,1,Pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s185,9,kejadian,Konfiks,Konfiks,True
+train-s1670,12,daripada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s384,9,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3654,6,2013,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2617,13,lantaran,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4025,38,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s487,19,bermain,Prefiks,Prefiks,True
+train-s474,30,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2240,46,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s456,6,kualifikasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4182,44,bermuatan,Konfiks,Konfiks,True
+train-s267,5,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2928,52,Bombardemen,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2226,3,mengepung,Prefiks,Prefiks,True
+train-s447,4,Tadase,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2181,2,Tiga,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3338,9,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3258,22,diseduh,Prefiks,Tidak Berimbuhan,False
+train-s3974,1,Mesin,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3285,91,21,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2163,33,berbagai,Prefiks,Tidak Berimbuhan,False
+train-s351,11,penyakit,Prefiks,Prefiks,True
+train-s3189,23,pamungkas,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2509,4,satu,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2395,24,FX,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2811,16,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2731,1,Berkat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1362,8,dilimpahkan,Konfiks,Konfiks,True
+train-s2407,1,Ichigo,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s156,17,pamannya,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2211,30,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s806,14,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3183,41,.,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2635,8,CPOKU,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1264,4,jangka,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s284,11,Barat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2651,6,mengambil,Prefiks,Prefiks,True
+train-s190,7,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s657,5,berminyak,Prefiks,Prefiks,True
+train-s535,5,bakar,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2639,16,lain,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4445,1,Ketika,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2632,8,saja,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2036,21,album,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3070,8,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1300,21,kali,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s71,14,konsep,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2446,28,dipatahkan,Konfiks,Konfiks,True
+train-s2588,6,gerak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s412,5,torsi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4135,12,theme,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2417,14,butir,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1237,16,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2744,28,USB,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4119,5,kecamatan,Konfiks,Konfiks,True
+train-s2104,17,radio,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4109,9,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3118,2,memutuskan,Konfiks,Konfiks,True
+train-s994,35,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2333,29,dikenal,Prefiks,Prefiks,True
+train-s4078,6,menginap,Prefiks,Tidak Berimbuhan,False
+train-s2749,25,Sanji,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1675,13,ANTV,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4146,9,Dinda,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4143,8,nama,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3792,7,besar,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2163,6,program,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1774,12,dimengerti,Prefiks,Prefiks,True
+train-s3166,6,peluang,Prefiks,Tidak Berimbuhan,False
+train-s3716,10,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s139,8,resistansi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s937,6,Umat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2306,25,April,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2592,14,udara,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s689,9,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2428,9,berbiji,Prefiks,Prefiks,True
+train-s1945,23,bagian,Sufiks,Sufiks,True
+train-s817,43,sedangkan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1319,12,danau,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1726,37,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s200,27,Indonesia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1178,6,komando,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3416,4,Belanda,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2784,5,tetap,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2364,1,Loji,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1988,40,persen,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2410,23,Perancis,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3201,10,ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3909,20,Jogjakarta,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3358,8,Kuba,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4264,9,ketenangan,Konfiks,Konfiks,True
+train-s1881,120,Barabai,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3315,11,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2391,5,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2710,1,Saat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1517,24,dikirimkan,Konfiks,Konfiks,True
+train-s3171,71,berbatasan,Konfiks,Konfiks,True
+train-s210,24,deklarasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4022,7,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2494,8,Portulaca,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s349,2,Malaise,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4067,1,Meskipun,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4315,35,Terbaik,Prefiks,Prefiks,True
+train-s80,17,komersial,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1682,10,Beheshti,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s124,28,dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3876,5,dijadikan,Konfiks,Konfiks,True
+train-s1073,1,Pusat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4119,1,Sampak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1135,12,perasaan,Konfiks,Konfiks,True
+train-s239,19,ibukota,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s543,9,istri,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4053,3,Agustus,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s140,18,invasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1692,20,karbohidrat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1956,2,Academic,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s838,9,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1595,3,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2101,33,fajar,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1239,2,Constitució,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2042,7,bersinar,Prefiks,Prefiks,True
+train-s373,8,sepak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2020,16,Hindia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3372,13,yakni,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2682,29,Da,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3599,10,Fakultas,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4364,13,Art,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1699,40,sebelumnya,Konfiks,Tidak Berimbuhan,False
+train-s1212,61,ketika,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2519,1,Di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2714,39,°,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1403,11,semenjak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2255,12,Wondama,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2358,9,Art,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s463,54,Mathaliul,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1814,7,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3506,10,sama,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s18,9,akhir,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3533,14,piala,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1316,11,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3492,14,Korea,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2894,19,Ford,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s859,10,pertama,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3266,14,2010,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3159,1,Sekitar,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2665,37,Gojira,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2762,12,suhu,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s331,3,desa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4302,5,sendiri,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2321,20,salah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1740,15,segera,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3918,7,Binatang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2981,17,maupun,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s626,10,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2806,2,kepemimpinan,Konfiks,Tidak Berimbuhan,False
+train-s968,58,sengit,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3735,19,Bowl,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1567,45,m,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s820,37,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3322,29,menurut,Prefiks,Tidak Berimbuhan,False
+train-s1865,21,sebut,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2365,1,Andara,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3750,10,kota,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s945,3,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1843,14,kelahiran,Konfiks,Konfiks,True
+train-s580,35,curah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2880,16,kegiatan,Konfiks,Konfiks,True
+train-s2188,13,diluncurkan,Konfiks,Konfiks,True
+train-s4307,14,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2621,21,sekarang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4224,7,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1421,4,oleh,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s611,9,1923,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3285,42,KPG,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s105,21,KDRT,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s354,8,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s884,21,terhadap,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3711,4,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1366,65,Joe,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s675,3,control,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2735,15,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3915,4,atas,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s552,32,tentang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2287,27,tanah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s827,5,Jawa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s502,13,1995,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4055,9,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2402,10,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1706,6,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1599,17,ilmu,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1881,15,Benawa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2395,91,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s614,26,berukuran,Konfiks,Konfiks,True
+train-s1854,14,Kristen,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1729,13,dikenal,Prefiks,Prefiks,True
+train-s383,21,Padang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2574,15,stasiun,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1521,13,tetap,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3734,2,seorang,Prefiks,Tidak Berimbuhan,False
+train-s1122,32,tanah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2852,61,membelah,Prefiks,Prefiks,True
+train-s3060,6,November,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2759,21,usaha,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1865,24,terjadi,Prefiks,Tidak Berimbuhan,False
+train-s2303,19,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3158,128,ter,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3218,6,STI,Tidak Berimbuhan,Sufiks,False
+train-s2367,9,banyak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s319,30,20,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1389,2,sayur,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4192,2,umumnya,Sufiks,Tidak Berimbuhan,False
+train-s2395,122,lulusan,Sufiks,Sufiks,True
+train-s4174,1,Usaha,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2238,12,1,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1294,18,Airport,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1155,12,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s445,30,Presidiumnya,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3658,5,Liu,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3189,3,China,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2641,8,karakter,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3058,1,Dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3130,32,sampai,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3474,19,waktu,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3368,19,Udara,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1984,23,seluruh,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s177,24,mencapai,Prefiks,Prefiks,True
+train-s3687,18,Los,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2094,19,pasti,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s776,8,demi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3539,13,mempunyai,Konfiks,Konfiks,True
+train-s267,20,Nusa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s830,3,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s742,9,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3961,52,tingkat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2845,22,mengambil,Prefiks,Prefiks,True
+train-s1302,13,Penduduknya,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3240,33,jantungnya,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3206,7,sebelum,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s834,8,mengejek,Prefiks,Prefiks,True
+train-s3703,20,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1449,9,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3911,8,penerbangan,Konfiks,Konfiks,True
+train-s2155,13,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4073,20,kelurahan,Konfiks,Konfiks,True
+train-s596,1,Dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1908,23,Abdil,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s896,2,pula,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1093,12,1997,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3884,11,investasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s900,9,masa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s570,14,apakah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3803,12,Sr,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1541,37,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s630,9,Lovers,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2299,1,Lele,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s658,15,kemakmurannya,Konfiks,Konfiks,True
+train-s2371,5,garis,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3665,9,bila,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1354,7,dilantik,Prefiks,Prefiks,True
+train-s3980,24,1970,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3869,5,payah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3397,20,didirikan,Konfiks,Konfiks,True
+train-s2597,24,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3846,13,Koto,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3815,33,Pope,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3486,7,rekreasipada,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3466,4,masyarakat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2136,3,ketiga,Prefiks,Prefiks,True
+train-s2924,6,Dahanyang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s682,19,Serat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3202,27,jurusan,Sufiks,Sufiks,True
+train-s59,16,AK,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4356,7,kecamatan,Konfiks,Konfiks,True
+train-s797,5,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2440,7,3,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2497,62,sibuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3203,7,Paramida,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3533,13,peraih,Prefiks,Prefiks,True
+train-s427,74,mendirikan,Konfiks,Konfiks,True
+train-s133,6,Galilea,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4046,7,hak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s887,6,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4033,5,pertama,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1035,16,tangan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1251,23,hingga,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3195,4,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3119,2,Pasal,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s930,22,Awuy,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3186,18,lebar,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2956,5,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1069,4,mudah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4369,6,rahasia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3254,1,WWE,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1747,18,diraih,Prefiks,Prefiks,True
+train-s1102,9,km&amp;sup2,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s207,3,asam,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1409,26,Paramount,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s561,14,Hall,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3171,25,4,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3355,50,tercantum,Prefiks,Prefiks,True
+train-s1672,3,Cina,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2950,17,studi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2234,40,Fenisia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3958,33,sampai,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4073,35,Kecamatan,Konfiks,Konfiks,True
+train-s623,7,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3419,23,pukul,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3703,8,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1182,26,=,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3265,2,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1015,5,pengasuh,Prefiks,Prefiks,True
+train-s880,7,dilihat,Prefiks,Prefiks,True
+train-s3174,10,lagu,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3223,96,dilaksanakan,Konfiks,Konfiks,True
+train-s189,16,Wilayah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s466,15,gelombang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3325,23,Gnostik,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1607,15,sisi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s639,3,berwarna,Prefiks,Prefiks,True
+train-s2026,6,tingkat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2160,19,79,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1607,22,mereka,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2784,14,Islam,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3609,20,radikal,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2077,10,kuat,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s608,11,bisa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3660,7,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2897,19,Desa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2361,4,100,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3306,10,Maluku,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s802,18,Teater,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1027,3,suku,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3184,29,bisa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4380,24,ladang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2123,10,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4208,14,impuls,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2845,57,internasional,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3211,14,al,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s427,51,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s724,2,kita,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s394,5,kamar,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s240,8,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1167,24,memerlukan,Konfiks,Konfiks,True
+train-s474,3,beberapa,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s549,4,mengadopsi,Prefiks,Prefiks,True
+train-s137,12,',Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2007,7,6,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2275,7,Kecamatan,Konfiks,Konfiks,True
+train-s4039,27,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3944,1,Kota,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2261,13,matahari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1225,12,Rusia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1847,1,Penggunaan,Konfiks,Konfiks,True
+train-s2774,5,ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s35,14,ketika,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1476,6,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1658,13,sistem,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s1317,10,balai,Tidak Berimbuhan,Sufiks,False
+train-s1687,22,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3741,16,desain,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3734,10,membawa,Prefiks,Prefiks,True
+train-s681,29,membuat,Prefiks,Prefiks,True
+train-s1366,12,mengejutkan,Konfiks,Konfiks,True
+train-s787,6,zaman,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3535,36,penelitian,Konfiks,Konfiks,True
+train-s179,22,1999,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s916,16,tahun,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s216,6,abad,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s379,20,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3021,2,tahun,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2853,13,kesehatan,Konfiks,Konfiks,True
+train-s2129,12,dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s4262,17,aksi,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3255,14,seperti,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2211,1,Garis,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2845,44,netral,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2396,11,dosaku,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s65,8,Neglasari,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3654,50,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s3529,2,Bouvet,Tidak Berimbuhan,Tidak Berimbuhan,True
+train-s2090,24,Terror,Tidak Berimbuhan,Tidak Berimbuhan,True

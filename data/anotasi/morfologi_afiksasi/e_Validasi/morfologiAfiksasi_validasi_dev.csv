@@ -1,0 +1,387 @@
+﻿sent_id,token_id,token,label_silver,label_otomatis,cocok
+dev-s288,4,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s60,33,2004,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s408,9,senjanya,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s101,6,mulai,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s119,8,diselesaikan,Konfiks,Konfiks,True
+dev-s51,2,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s30,28,dis,Tidak Berimbuhan,Prefiks,False
+dev-s265,17,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s532,35,PT,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s530,11,Asali,Tidak Berimbuhan,Sufiks,False
+dev-s201,12,Angkong,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s530,21,jamaah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s544,31,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s337,5,Jenderal,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s250,13,terbit,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s544,37,ke,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s392,4,air,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s298,30,namun,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s559,13,White,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s32,4,mendadak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s333,4,kampus,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s127,67,melaporkan,Konfiks,Konfiks,True
+dev-s110,28,radio,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s240,1,Ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s357,1,Sensor,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s165,13,diftong,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s156,30,سدوم,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s443,19,Laboratorium,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s171,1,Namun,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s235,3,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s110,10,pribadi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s116,10,merah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s220,20,terlambat,Prefiks,Tidak Berimbuhan,False
+dev-s511,29,Google,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s441,32,bisnis,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s241,5,Luther,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s2,17,lapangan,Sufiks,Sufiks,True
+dev-s258,8,tuntutan,Sufiks,Sufiks,True
+dev-s164,7,ratusan,Sufiks,Sufiks,True
+dev-s66,18,Atreus,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s119,17,langit,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s426,17,kesehatan,Konfiks,Konfiks,True
+dev-s292,5,terdiri,Prefiks,Prefiks,True
+dev-s485,10,atau,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s298,19,menarik,Prefiks,Prefiks,True
+dev-s76,17,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s374,21,unik,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s37,55,R,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s255,11,Peureulak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s413,73,dikenal,Prefiks,Prefiks,True
+dev-s329,14,membantu,Prefiks,Prefiks,True
+dev-s55,9,terus,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s253,26,Pendirian,Konfiks,Konfiks,True
+dev-s149,2,saat,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s286,2,sekarang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s425,6,serapannya,Sufiks,Sufiks,True
+dev-s255,1,Seuneubok,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s470,27,medan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s49,1,Tim,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s97,24,Sputnik,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s385,9,terlalu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s532,14,Nasional,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s89,6,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s478,22,ialah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s544,35,playoff,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s332,12,SMAN,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s396,14,Thailand,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s436,16,sebagai,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s271,17,ditulis,Prefiks,Prefiks,True
+dev-s63,7,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s478,8,Fairbanks,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s492,11,Renata,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s221,24,anak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s91,11,mendamaikan,Konfiks,Konfiks,True
+dev-s462,16,April,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s149,24,kembali,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s536,17,didirikannya,Konfiks,Konfiks,True
+dev-s34,18,fungsi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s44,8,Weights,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s139,5,sebagai,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s97,21,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s109,15,Bangsalan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s175,1,Dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s404,18,perwira,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s417,1,Film,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s544,26,/,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s538,2,bermain,Prefiks,Prefiks,True
+dev-s557,26,tahun,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s354,3,terkenal,Prefiks,Prefiks,True
+dev-s99,13,Sulawesi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s311,9,halaman,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s155,1,Dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s154,23,km²,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s370,6,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s410,11,facebook,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s516,10,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s4,9,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s60,79,awal,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s471,10,merasa,Prefiks,Prefiks,True
+dev-s119,15,lunette,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s216,3,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s349,11,universitas,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s320,15,HOA,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s460,34,kota,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s5,2,It,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s495,13,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s307,24,teknologi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s106,13,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s476,24,menghadapi,Konfiks,Konfiks,True
+dev-s381,18,Perdana,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s530,43,Mahbub,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s242,1,Salah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s373,38,tengah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s196,7,tradisional,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s92,2,Kafirpun,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s69,10,basa,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s259,11,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s148,42,Afrika,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s148,33,musuh,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s402,12,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s204,4,Industri,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s20,24,genggam,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s274,3,sedang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s57,42,penghabisan,Konfiks,Konfiks,True
+dev-s169,10,memulai,Prefiks,Prefiks,True
+dev-s158,5,penjudi,Prefiks,Prefiks,True
+dev-s337,12,kecelakaan,Konfiks,Konfiks,True
+dev-s389,1,Selain,Tidak Berimbuhan,Prefiks,False
+dev-s398,16,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s342,33,mengawali,Konfiks,Konfiks,True
+dev-s15,7,suatu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s96,1,Film,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s246,5,secara,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s254,19,3,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s291,5,departemen,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s441,47,perbankan,Konfiks,Konfiks,True
+dev-s111,14,satu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s161,2,membuat,Prefiks,Prefiks,True
+dev-s298,33,Chet,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s533,3,sebelumnya,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s156,47,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s127,38,TH,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s317,17,membuat,Prefiks,Prefiks,True
+dev-s21,1,Nama,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s51,4,posisi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s275,3,tentang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s172,12,Gregoris,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s307,6,komitmen,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s376,17,Injili,Tidak Berimbuhan,Sufiks,False
+dev-s552,18,beserta,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s327,34,kematian,Konfiks,Konfiks,True
+dev-s521,2,Ia,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s281,1,Chandragupta,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s426,24,mendatang,Prefiks,Tidak Berimbuhan,False
+dev-s383,2,berikut,Prefiks,Prefiks,True
+dev-s259,8,menutupi,Konfiks,Konfiks,True
+dev-s544,4,menjadi,Prefiks,Prefiks,True
+dev-s18,13,ke,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s293,3,muncul,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s120,16,36,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s26,27,seumur,Prefiks,Prefiks,True
+dev-s78,5,Amman,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s330,4,mempunyai,Konfiks,Konfiks,True
+dev-s504,20,siaran,Sufiks,Sufiks,True
+dev-s150,7,Sawah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s517,25,ordo,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s197,27,serangga,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s253,1,Dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s344,8,Tulin,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s414,25,terdapat,Prefiks,Prefiks,True
+dev-s138,4,Tun,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s501,20,puncak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s462,47,Rabaul,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s136,4,sejarahnya,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s392,22,jarenn,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s167,9,Shinichi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s509,6,pencaharian,Konfiks,Tidak Berimbuhan,False
+dev-s313,51,6,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s483,18,waktu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s153,22,6,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s299,4,tari,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s53,28,Indonesia,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s217,6,Satu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s15,6,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s70,141,negara,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s261,2,Harian,Sufiks,Sufiks,True
+dev-s82,19,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s145,10,mengambil,Prefiks,Prefiks,True
+dev-s503,25,sekitar,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s549,8,954,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s22,2,TUHAN,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s395,8,Kamila,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s64,4,dalam,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s226,3,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s93,7,62,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s372,2,sipil,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s495,6,daya,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s352,11,Mercia,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s374,42,berinteraksi,Prefiks,Prefiks,True
+dev-s39,7,telanjur,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s417,7,seri,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s85,13,sedangkan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s428,4,kedua,Prefiks,Prefiks,True
+dev-s377,11,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s540,19,mendidik,Prefiks,Prefiks,True
+dev-s201,19,tersebut,Prefiks,Tidak Berimbuhan,False
+dev-s193,7,Nasional,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s140,7,Pandawa,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s540,6,Negeri,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s12,1,Spin,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s534,3,pertama,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s205,14,organisasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s307,26,teknologi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s320,3,1941,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s504,22,digital,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s208,7,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s417,13,mengenai,Konfiks,Tidak Berimbuhan,False
+dev-s2,19,Makassar,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s197,24,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s111,5,Ashley,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s145,13,x,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s479,11,Carpentaria,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s176,16,an,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s342,38,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s558,12,Tangerang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s2,24,Ratu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s350,41,Palestina,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s505,6,tempat,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s366,11,terkuat,Prefiks,Prefiks,True
+dev-s299,6,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s487,16,oleh,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s12,16,kaku,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s57,8,dibawah,Tidak Berimbuhan,Prefiks,False
+dev-s371,11,2004,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s91,9,sakit,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s1,18,lainnya,Sufiks,Tidak Berimbuhan,False
+dev-s192,20,sedikit,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s197,30,kedua,Prefiks,Prefiks,True
+dev-s214,8,Trento,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s496,25,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s48,21,MANDIRA,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s46,1,Bau,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s156,17,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s211,16,kejaran,Sufiks,Sufiks,True
+dev-s253,27,Universitas,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s149,4,berhasil,Prefiks,Tidak Berimbuhan,False
+dev-s57,12,prestasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s507,1,Keinginan,Konfiks,Konfiks,True
+dev-s510,12,menjadi,Prefiks,Prefiks,True
+dev-s181,13,Tanjung,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s284,4,masjid,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s557,4,Av,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s181,28,Melayu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s153,14,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s492,4,terus,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s283,6,mengenang,Prefiks,Prefiks,True
+dev-s487,8,berasal,Prefiks,Prefiks,True
+dev-s471,3,Iwan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s60,73,melewati,Konfiks,Konfiks,True
+dev-s420,18,PWR,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s70,24,oleh,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s392,2,sumber,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s177,18,Dancer,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s255,6,gampong,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s45,13,telah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s201,1,Konon,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s410,30,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s479,4,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s533,10,didirikan,Konfiks,Konfiks,True
+dev-s324,4,memperhatikan,Konfiks,Konfiks,True
+dev-s155,15,berlubang,Prefiks,Prefiks,True
+dev-s276,5,perusahaan,Konfiks,Konfiks,True
+dev-s353,9,sebelum,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s535,21,Kristen,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s57,37,dekade,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s481,17,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s81,11,dari,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s523,11,menerangkan,Konfiks,Konfiks,True
+dev-s234,1,Apakah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s282,21,membersihkan,Konfiks,Konfiks,True
+dev-s253,3,Keputusan,Konfiks,Konfiks,True
+dev-s19,6,justru,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s60,118,beberapa,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s404,21,itu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s436,9,film,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s465,24,merupakan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s76,13,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s446,19,sea,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s381,12,baru,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s176,11,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s203,16,animasi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s285,3,ditandai,Konfiks,Konfiks,True
+dev-s410,18,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s110,7,on,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s149,19,pacar,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s559,30,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s110,73,Tango,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s399,2,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s460,36,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s279,15,baik,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s51,12,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s36,12,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s227,30,milik,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s69,6,apabila,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s30,6,propinsi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s301,6,seri,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s276,20,pasaran,Sufiks,Sufiks,True
+dev-s501,17,indo,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s127,16,Aula,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s221,22,karena,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s300,24,Thebes,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s311,1,Selama,Prefiks,Tidak Berimbuhan,False
+dev-s523,1,Lalu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s98,15,Columbia,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s394,7,pasien,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s495,12,berpenduduk,Prefiks,Prefiks,True
+dev-s435,12,misalnya,Sufiks,Tidak Berimbuhan,False
+dev-s280,7,para,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s17,12,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s265,28,Teosofi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s115,25,perintis,Prefiks,Prefiks,True
+dev-s127,56,dengan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s276,7,interansional,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s473,10,100,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s274,1,Pembatasan,Konfiks,Konfiks,True
+dev-s409,19,jenis,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s311,51,telah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s529,17,di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s97,1,Sebuah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s191,40,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s130,8,tersebar,Prefiks,Prefiks,True
+dev-s403,19,direktur,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s419,1,Di,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s213,12,dan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s252,11,pertanyaan,Konfiks,Konfiks,True
+dev-s444,2,peri,Tidak Berimbuhan,Prefiks,False
+dev-s15,21,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s277,11,ke,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s311,38,13,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s203,26,pertama,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s385,14,anggota,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s352,35,didirikan,Konfiks,Konfiks,True
+dev-s362,10,bertahan,Prefiks,Prefiks,True
+dev-s219,16,Ceko,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s105,24,dipotong,Prefiks,Prefiks,True
+dev-s317,12,meningkatkan,Konfiks,Konfiks,True
+dev-s304,8,menyumbang,Prefiks,Prefiks,True
+dev-s503,32,kesehatan,Konfiks,Konfiks,True
+dev-s393,3,sebagai,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s260,6,lonjong,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s70,74,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s228,14,satu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s28,9,dewa,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s41,13,Indonesia,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s7,7,mengakomodasi,Prefiks,Prefiks,True
+dev-s70,50,ini,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s475,13,kondisi,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s423,26,tahta,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s60,31,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s45,6,bahwa,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s232,5,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s197,11,ordo,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s209,19,akan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s414,33,antara,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s83,19,menjadi,Prefiks,Prefiks,True
+dev-s64,9,tidak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s298,10,Caravan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s153,34,kepada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s24,19,1879,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s234,4,terjadi,Prefiks,Tidak Berimbuhan,False
+dev-s386,14,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s307,20,pemberantasan,Konfiks,Konfiks,True
+dev-s372,5,sejak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s327,14,yang,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s23,7,waktu,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s53,16,pada,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s377,4,untuk,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s252,2,banyak,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s343,4,ke,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s195,2,adalah,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s204,8,apapun,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s316,7,elektrisitas,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s26,19,akan,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s197,12,berbeda,Prefiks,Prefiks,True
+dev-s144,21,proses,Tidak Berimbuhan,Tidak Berimbuhan,True
+dev-s559,6,Indonesia,Tidak Berimbuhan,Tidak Berimbuhan,True
